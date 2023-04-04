@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
 
-### Written Instructions to Connect to This Repository:
+### Written Instructions to Connect to This Repository (update):
 
 1. FORK this repository, creating a copy on your own GitHub account
 
