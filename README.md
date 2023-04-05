@@ -1,8 +1,5 @@
 ![](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
 
-A THIRD line of code.
-
-
 ### Written Instructions to Connect to This Repository:
 
 1. FORK this repository, creating a copy on your own GitHub account
